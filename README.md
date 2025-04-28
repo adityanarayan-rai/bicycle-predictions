@@ -2,7 +2,7 @@
 
 This repository complements the master thesis submitted in partial fulfilment of the requirements of the Hertie School for the degree of Master of Science in *Data Science for Public Policy.*
 
-NOTE - THIS REPO IS STILL A WORK IN PROGRESS!!
+**NOTE - THIS REPO IS STILL A WORK IN PROGRESS!!**
 
 ## Abstract
 
