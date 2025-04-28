@@ -1,6 +1,8 @@
 # Forecasting Cycling Volume Measurements: A Cross-city Comparative Analysis Using Machine Learning and Deep Learning Techniques
 
-This repository complements the master thesis submitted in partial fulfilment of the requirements of the Hertie School for the degree of Master of Science in *Data Science for Public Policy*
+This repository complements the master thesis submitted in partial fulfilment of the requirements of the Hertie School for the degree of Master of Science in *Data Science for Public Policy.*
+
+NOTE - THIS REPO IS STILL A WORK IN PROGRESS!!
 
 ## Abstract
 
