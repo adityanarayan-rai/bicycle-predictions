@@ -2,7 +2,8 @@
 
 This repository complements the master thesis submitted in partial fulfilment of the requirements of the Hertie School for the degree of Master of Science in *Data Science for Public Policy.*
 
-**NOTE - THIS REPO IS STILL A WORK IN PROGRESS!!**
+> [!IMPORTANT]
+> This repository contains code and materials from my master's thesis research project. The code is provided as-is and is not actively maintained or tested for reproducibility. It is shared for transparency and for those interested in the methodological approach.
 
 ## Abstract
 
